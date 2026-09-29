@@ -1,0 +1,67 @@
+{
+  "termsVersion": "1.0",
+  "updatedAt": "2026-09-29",
+  "tos": {
+    "title": "Điều khoản dịch vụ (Terms of Service)",
+    "intro": "Vui lòng đọc kỹ các điều khoản dưới đây trước khi sử dụng VTuber Hub. Việc truy cập và sử dụng website đồng nghĩa với việc bạn chấp nhận các điều khoản này.",
+    "sections": [
+      { "heading": "1. Chấp nhận điều khoản", "paragraphs": [
+        "Khi đăng nhập bằng Discord, bạn xác nhận đã đọc và đồng ý với Điều khoản dịch vụ này và Luật cộng đồng của website. Nếu không đồng ý, bạn vẫn có thể xem các trang công khai nhưng không thể dùng các tính năng cần tài khoản."] },
+      { "heading": "2. Về dịch vụ", "paragraphs": [
+        "VTuber Hub là trang tổng hợp thông tin công khai về VTuber và Clipper (trạng thái live, video mới, Fan Art, tin tức, diễn đàn) do cộng đồng vận hành.",
+        "Website không thuộc sở hữu của, không được tài trợ bởi và không liên kết chính thức với YouTube, Discord hay các VTuber được nhắc đến. Dữ liệu lấy từ nguồn công khai có thể chậm, thiếu hoặc chưa chính xác."] },
+      { "heading": "3. Tài khoản và đăng nhập Discord", "paragraphs": [
+        "Website dùng Discord OAuth2 để đăng nhập; website không có mật khẩu và không lưu mật khẩu của bạn.",
+        "Khi đăng nhập, chúng tôi chỉ nhận ID, tên hiển thị và ảnh đại diện Discord (không lấy email), và lưu kèm thời điểm bạn đồng ý điều khoản cùng phiên bản điều khoản đã đồng ý.",
+        "Bạn chịu trách nhiệm về mọi hoạt động thực hiện bằng tài khoản của mình. Hãy đăng xuất khi dùng máy chung."] },
+      { "heading": "4. Nội dung do người dùng đăng", "paragraphs": [
+        "Bạn giữ quyền sở hữu nội dung của mình (bài Forum, bình luận, Fan Art). Bằng việc đăng tải, bạn cho phép VTuber Hub lưu trữ và hiển thị nội dung đó trên website ở dạng công khai cho mục đích vận hành dịch vụ.",
+        "Bạn cam kết có quyền đăng nội dung đó và nội dung không vi phạm Luật cộng đồng hay pháp luật.",
+        "Bài viết và Fan Art có thể phải chờ Admin duyệt trước khi hiển thị, và có thể bị từ chối kèm lý do."] },
+      { "heading": "5. Hành vi bị cấm", "paragraphs": [
+        "Các hành vi bị cấm được nêu chi tiết trong Luật cộng đồng, là một phần của Điều khoản này. Ngoài ra, bạn không được truy cập trái phép, làm gián đoạn hệ thống, tự động hóa thao tác hàng loạt hoặc cố vượt qua các cơ chế bảo vệ của website."] },
+      { "heading": "6. Kiểm duyệt và xử lý tài khoản", "paragraphs": [
+        "Admin có quyền từ chối, chỉnh sửa hiển thị hoặc xóa nội dung vi phạm mà không cần báo trước.",
+        "Tùy mức độ vi phạm, Admin có thể cảnh báo, hạn chế tính năng hoặc chặn tài khoản. Vi phạm nghiêm trọng hoặc lặp lại có thể dẫn đến chặn vĩnh viễn."] },
+      { "heading": "7. Bản quyền và quyền riêng tư", "paragraphs": [
+        "Không đăng nội dung mà bạn không có quyền sử dụng, hoặc nội dung tiết lộ thông tin cá nhân của người khác. Nếu bạn là chủ sở hữu và cho rằng nội dung nào xâm phạm quyền của mình, hãy liên hệ qua trang Đóng góp; chúng tôi sẽ xem xét và gỡ nếu phù hợp."] },
+      { "heading": "8. Dịch vụ bên thứ ba", "paragraphs": [
+        "Website sử dụng hoặc liên kết tới dịch vụ bên thứ ba như YouTube, Discord, imgbb (lưu ảnh), Cloudflare Turnstile (chống bot) và livecounts.io (thống kê). Các dịch vụ này có điều khoản riêng và website không chịu trách nhiệm về nội dung hay hoạt động của chúng."] },
+      { "heading": "9. Miễn trừ trách nhiệm", "paragraphs": [
+        "Dịch vụ được cung cấp \"nguyên trạng\", không đảm bảo hoạt động liên tục hay không có lỗi. Trong phạm vi pháp luật cho phép, website không chịu trách nhiệm cho thiệt hại phát sinh từ việc sử dụng dịch vụ hoặc từ nội dung do người dùng đăng."] },
+      { "heading": "10. Thay đổi điều khoản", "paragraphs": [
+        "Điều khoản và Luật cộng đồng có thể được cập nhật. Khi có thay đổi quan trọng, phiên bản mới sẽ được công bố trên trang này và bạn có thể được yêu cầu xác nhận lại trước khi tiếp tục dùng các tính năng cần tài khoản. Tiếp tục sử dụng sau khi cập nhật được hiểu là chấp nhận phiên bản mới."] },
+      { "heading": "11. Liên hệ", "paragraphs": [
+        "Mọi thắc mắc, báo cáo vi phạm hoặc yêu cầu gỡ nội dung, vui lòng gửi qua trang Đóng góp / chỉnh sửa (/contribute)."] }
+    ]
+  },
+  "rules": {
+    "title": "Luật cộng đồng (Community Rules)",
+    "intro": "Các quy tắc này áp dụng cho Forum, Fan Art, bình luận, reaction và mọi hoạt động cộng đồng trên VTuber Hub. Hãy tôn trọng nhau để nơi này luôn thân thiện.",
+    "sections": [
+      { "heading": "1. Không spam, flood hoặc quảng cáo trái phép", "paragraphs": [
+        "Không đăng lặp nội dung, đăng hàng loạt, chèn liên kết quảng cáo, mời tham gia server/kênh hoặc bán hàng khi chưa được Admin cho phép."] },
+      { "heading": "2. Không đăng nội dung NSFW, khiêu dâm hoặc không phù hợp", "paragraphs": [
+        "Không đăng hình ảnh, văn bản hay liên kết mang tính khiêu dâm, gợi dục hoặc không phù hợp với cộng đồng chung, kể cả Fan Art."] },
+      { "heading": "3. Không đăng nội dung bạo lực/gore hoặc bất hợp pháp", "paragraphs": [
+        "Không đăng nội dung mô tả bạo lực quá mức, máu me, tự hại, hoặc nội dung vi phạm pháp luật."] },
+      { "heading": "4. Không quấy rối, đe dọa, xúc phạm hoặc bắt nạt", "paragraphs": [
+        "Hãy góp ý văn minh. Không công kích cá nhân, đe dọa, làm phiền liên tục, tấn công hay tiết lộ thông tin cá nhân của người khác."] },
+      { "heading": "5. Không phân biệt đối xử hoặc kích động thù ghét", "paragraphs": [
+        "Không đăng nội dung phân biệt hay kích động thù ghét dựa trên chủng tộc, giới tính, xu hướng tính dục, tôn giáo, quốc tịch, khuyết tật hoặc đặc điểm cá nhân khác."] },
+      { "heading": "6. Không vi phạm bản quyền hoặc quyền riêng tư", "paragraphs": [
+        "Chỉ đăng Fan Art và nội dung do bạn tạo ra hoặc được phép sử dụng, và ghi nguồn khi cần. Không đăng ảnh, tin nhắn riêng tư hay thông tin cá nhân của người khác khi chưa được đồng ý."] },
+      { "heading": "7. Không giả mạo người khác", "paragraphs": [
+        "Không giả danh Admin, VTuber, Clipper hay bất kỳ ai khác, và không dùng tên/ảnh đại diện nhằm gây nhầm lẫn."] },
+      { "heading": "8. Không khai thác lỗi, phá hoại hoặc bypass hệ thống", "paragraphs": [
+        "Nếu phát hiện lỗi hoặc lỗ hổng, hãy báo qua trang Đóng góp thay vì lợi dụng. Không tấn công, làm quá tải, dùng công cụ tự động hoặc cố vượt qua giới hạn, kiểm duyệt và cơ chế bảo mật."] },
+      { "heading": "9. Không spam reaction/comment", "paragraphs": [
+        "Không bình luận hoặc thả reaction dồn dập, vô nghĩa hay lặp lại, và không dùng nhiều tài khoản để tăng tương tác."] },
+      { "heading": "10. Không lừa đảo hoặc gây hại", "paragraphs": [
+        "Không đăng liên kết độc hại, lừa đảo, phát tán mã độc, thu thập thông tin trái phép hay bất kỳ nội dung nhằm gây hại cho người khác."] },
+      { "heading": "11. Kiểm duyệt và xử lý vi phạm", "paragraphs": [
+        "Admin có quyền kiểm duyệt: từ chối hoặc xóa nội dung vi phạm và xử lý tài khoản theo Điều khoản dịch vụ (cảnh báo, hạn chế hoặc chặn), tùy mức độ nghiêm trọng.",
+        "Quyết định kiểm duyệt dựa trên đánh giá của Admin. Nếu cho rằng có nhầm lẫn, bạn có thể phản hồi qua trang Đóng góp."] }
+    ]
+  }
+}

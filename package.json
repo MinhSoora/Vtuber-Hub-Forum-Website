@@ -1,0 +1,19 @@
+{
+  "name": "vtuber-hub-phase1",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VTuber aggregator - phase 1 (backend + data flow), no YouTube API key",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/run.js && node test/auth.js && node test/forum.js && node test/admin.js && node test/antispam.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}

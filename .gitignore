@@ -1,0 +1,13 @@
+.env
+node_modules
+cache/*.json
+data/*.tmp*
+data/users.json
+data/sessions.json
+data/posts.json
+data/comments.json
+data/fanarts.json
+data/fanart.json
+data/moderation.json
+data/popups.json
+data/marquee.json
